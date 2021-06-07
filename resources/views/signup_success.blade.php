@@ -1,0 +1,1 @@
+<h2 style="text-align: center; color: green">you registered successful</h2>

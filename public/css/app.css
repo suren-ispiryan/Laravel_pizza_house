@@ -1,0 +1,17 @@
+body{
+  background: white;
+}
+h2{
+  text-align: center;
+}
+label{
+  font-size: 12px;
+}
+#name, #email, #subject, #message{
+  width: 200px;
+}
+.goToList{
+  text-align: center;
+  width: 100%;
+}
+
